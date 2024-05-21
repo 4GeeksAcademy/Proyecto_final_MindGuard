@@ -16,6 +16,14 @@ Esta aplicación de Streamlit está estructurada de la siguiente manera:
 - **Página Principal**: Interfaz inicial de la aplicación donde puedes navegar a diferentes secciones.
 - **Página de Predicción**: Sección donde se encuentra nuestro modelo de predicción. Aquí se llaman a las funciones definidas en `utils.py` y se utiliza la API para generar predicciones.
 
+## Nota Importante
+
+Debido a que los modelos son muy pesados, no se cargan directamente en este repositorio. Si necesitas acceso a los modelos, por favor contacta a los siguientes miembros del equipo:
+
+- David González (Dgasensi)
+- Celia García (Celia-code13)
+- Joel de Andrade (Joel1695)
+
 ## Estructura del Proyecto
 
 

@@ -11,7 +11,22 @@ Este proyecto de Data Science está estructurado en tres carpetas principales:
 2. **Pruebas con XGBoost**: Esta carpeta contiene el código relacionado con nuestras pruebas y experimentos utilizando el modelo XGBoost.
 3. **Modelo BERT y Stacking**: En esta sección se encuentra el código del modelo BERT y la implementación del stacking para mejorar la precisión de nuestras predicciones.
 
+
+
+Debido a que los modelos son muy pesados, no se cargan directamente en este repositorio. Si necesitas acceso a los modelos, por favor contacta a los siguientes miembros del equipo:
+
+- David González (Dgasensi)
+- Celia García (Celia-code13)
+- Joel de Andrade (Joel1695)
+
 ## Importante
+
+Debido a que los modelos son muy pesados, no se cargan directamente en este repositorio. Si necesitas acceso a los modelos, por favor contacta a los siguientes miembros del equipo:
+
+- David González (Dgasensi)
+- Celia García (Celia-code13)
+- Joel de Andrade (Joel1695)
+
 
 Debido a restricciones de propiedad, no podemos incluir el dataset utilizado en este proyecto. Si deseas más información sobre el dataset, puedes consultar el siguiente paper:
 
