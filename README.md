@@ -1,6 +1,6 @@
 
 <div style="text-align: center;">
-    <img src="Streamlit/maqueta_proyect1/imagenes/logo_centro.png" alt="Imagen del Proyecto" style="padding: 10px;">
+    <img src="Streamlit/maqueta_proyect1/imagenes/nombre_def.png" alt="Imagen del Proyecto" style="padding: 10px;">
 </div>
 
 ## Descripción del Proyecto
