@@ -1,6 +1,7 @@
-# Proyecto de Data Science
 
-![Imagen del Proyecto](ruta/a/tu/imagen.png)
+<div style="text-align: center;">
+    <img src="Streamlit/maqueta_proyect1/imagenes/nombre_def-removebg-preview.png" alt="Imagen del Proyecto" style="background-color: white; padding: 10px;">
+</div>
 
 ## Descripción del Proyecto
 
