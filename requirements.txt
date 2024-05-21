@@ -1,0 +1,17 @@
+streamlit
+scikit-learn==1.2.2
+streamlit_extras
+nltk
+unidecode
+tqdm
+wordcloud
+requests
+pandas
+joblib
+xgboost
+afinn
+emoji
+emosent-py
+torch
+transformers
+streamlit_lottie
