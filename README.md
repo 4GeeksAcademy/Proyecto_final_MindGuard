@@ -23,3 +23,5 @@ Debido a que los modelos son muy pesados, no se cargan directamente en este repo
 Debido a restricciones de propiedad, no podemos incluir el dataset utilizado en este proyecto. Si deseas más información sobre el dataset, puedes consultar el siguiente paper:
 
 **M. E. Villa-Pérez, L. A. Trejo, M. B. Moin y E. Stroulia, "Extracting Mental Health Indicators from English and Spanish Social Media: A Machine Learning Approach," en IEEE Access, doi: 10.1109/ACCESS.2023.3332289.** Puedes acceder al paper a través de este [enlace](https://www.researchgate.net/publication/375617315_Extracting_Mental_Health_Indicators_from_English_and_Spanish_Social_Media_A_Machine_Learning_Approach) o comunicarte a través del siguiente correo electrónico: miryam@tec.mx (Miryam Elizabeth Villa Pérez).
+
+Link de la App  [enlace](https://huggingface.co/spaces/joel1695/maqueta_proyect1)
